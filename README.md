@@ -1,0 +1,3 @@
+# playstation
+
+I've done this site in 30min and i am very proud of my work.I am still beginner.And i am learning HTML,CSS,JS...
